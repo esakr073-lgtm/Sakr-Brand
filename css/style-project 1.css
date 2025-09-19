@@ -38,16 +38,16 @@ body{
     background-color: rgb(255, 252, 247);
     border-radius: 20px;
     position: absolute;
-    margin-top: 12.5px;
+    margin-top: 11.5px;
     margin-left: 25px;
     border: 0;
-    padding-left: 10px;
+    padding-left:28px;
 }
 .searchicon{
    position: absolute;
    margin-top: 20px;
    font-size: 16px;
-   margin-left: 235px;
+   margin-left: 35px;
 }
 .header-list{
     float: right;
@@ -994,4 +994,5 @@ list-style: none;
     background-color:rgb(250, 80, 0);
     transition: 0.5s;
 }
+
 /* ///////////////////---------------***The-End-Of-The-Project***---------------/////////////////// */
